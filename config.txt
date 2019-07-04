@@ -3,4 +3,4 @@ prefix=1
 game=1play|#Riyderz
 stayinchannel=false
 songinstatus=false
-token=NTg1MjA0MDIzMzU1NzY4ODg5.XQjcTQ.COzuBoKK3w2zNLeYcUB2tMGW7lo
+token=NTg1MjA0MDIzMzU1NzY4ODg5.XR5NYg.2mHugHrh6m7p21Nxksw_VAgoPX4
